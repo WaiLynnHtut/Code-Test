@@ -98,8 +98,8 @@
     </configuration>
     <list>
       <item itemvalue="Python.app" />
-      <item itemvalue="Python.hello" />
       <item itemvalue="Python.condition" />
+      <item itemvalue="Python.hello" />
     </list>
     <recent_temporary>
       <list>
